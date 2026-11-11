@@ -1,7 +1,7 @@
 # **Cart-Pole Optimal Control using LQR**
 ## **(ROS2 + Gazebo)**
 
-**Author:** Ayushman M. (https://github.com/aymisxx)  
+**Author:** Ayushman M. (https://github.com/infinitepriest)  
 
 
 ## Overview
@@ -348,14 +348,6 @@ The course is affiliated with the
 **Website:** https://deepgis.org/dreamslab  
 
 The assignment/micro-project structure, evaluation methodology, and coverage-control framework were inspired by course material and lab research themes in autonomous systems and robotic exploration.
-
-------------------------------------------------------------------------
-
-### **Author**
-
-Ayushman M. (https://github.com/aymisxx)  
-M.S. Robotics & Autonomous Systems (MAE)  
-Arizona State University  
 
 ------------------------------------------------------------------------
 
