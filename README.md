@@ -1,7 +1,7 @@
 # **Cart-Pole Optimal Control using LQR**
 ## **(ROS2 + Gazebo)**
 
-**Author:** Ayushman M. (https://github.com/infinitepriest)  
+**Author:** Ayushman M. (https://github.com/lightfallpriest)  
 
 
 ## Overview
